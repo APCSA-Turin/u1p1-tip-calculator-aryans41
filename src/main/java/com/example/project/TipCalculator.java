@@ -41,4 +41,3 @@ public class TipCalculator {
         System.out.println(calculateTip(people,percent,cost));
     }
 }
-        
